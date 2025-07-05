@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2025-07-06T00:45:16.033818",
+  "last_updated": "2025-07-06T01:01:01.555004",
   "images": {
     "574475": {
       "poster": {
@@ -14,6 +14,12 @@
         "sha": "67f7a0457f6f16ed72119dc0178640bdeb61fe0d",
         "size": 108256,
         "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image1/main/images/574475/clearlogo.png"
+      },
+      "fanart": {
+        "repo_url": "https://github.com/Liu1443452494/emby_media_image1",
+        "sha": "5c87fa5558f68d2541935d157aaa75b66fe396fc",
+        "size": 1266083,
+        "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image1/main/images/574475/fanart.jpg"
       }
     }
   }
